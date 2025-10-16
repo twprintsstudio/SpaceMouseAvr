@@ -6,14 +6,14 @@
       "websiteURL": "https://github.com/twprintsstudio/SpaceMouseAvr",
       "platforms": [
         {
-          "name": "SpaceMouse Leonardo Boards",
+          "name": "SpaceMouse Leonardo Board",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/twprintsstudio/SpaceMouseAvr/releases/download/v1.0.0/spacemouse-1.0.0.tar.bz2",
-          "archiveFileName": "spacemouse-1.0.0.tar.bz2",
-          "checksum": "SHA-256:bb076d0b0a2d0d8f4e49d134c6d096e8158779aa55660346397a18a136382905",
-          "size": "7219705",
+          "url": "https://github.com/twprintsstudio/SpaceMouseAvr/releases/download/v1.0.1/spacemouse-1.0.1.tar.bz2",
+          "archiveFileName": "spacemouse-1.0.1.tar.bz2",
+          "checksum": "SHA-256:b49013e8e92ebe61b5d5ea1a7d8bd03d44b031709c4ca517ba77faf9c5889c8c",
+          "size": "7258424",
           "help": {
             "online": "https://github.com/twprintsstudio/SpaceMouseAvr/issues"
           },
