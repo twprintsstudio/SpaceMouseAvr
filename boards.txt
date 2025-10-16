@@ -1,4 +1,4 @@
-leonardo.name=Thomas SpaceMouse Pro Micro
+leonardo.name=Spacemouse
 leonardo.vid.0=0x2341
 leonardo.pid.0=0x0036
 leonardo.vid.1=0x2341
@@ -29,7 +29,7 @@ leonardo.build.mcu=atmega32u4
 leonardo.build.f_cpu=16000000L
 leonardo.build.vid=0x256f
 leonardo.build.pid=0xc631
-leonardo.build.usb_product="Thomas SpaceMouse Pro Micro"
+leonardo.build.usb_product="Spacemouse"
 leonardo.build.board=AVR_LEONARDO
 leonardo.build.core=arduino
 leonardo.build.variant=leonardo
