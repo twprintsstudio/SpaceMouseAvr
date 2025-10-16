@@ -31,6 +31,7 @@ leonardo.build.f_cpu=16000000L
 leonardo.build.vid=0x256f
 leonardo.build.pid=0xc631
 leonardo.build.usb_product="Spacemouse"
+leonardo.build.usb_manufacturer="3Dconnexion"
 leonardo.build.board=AVR_LEONARDO
 leonardo.build.core=arduino
 leonardo.build.variant=leonardo
