@@ -1,21 +1,21 @@
 {
   "packages": [
     {
-      "name": "spacemouse",
+      "name": "thomas_spacemouse",
       "maintainer": "Thomas Sundberg",
-      "websiteURL": "https://github.com/twprintsstudio/SpaceMouse",
+      "websiteURL": "https://github.com/twprintsstudio/SpaceMouseAvr",
       "platforms": [
         {
-          "name": "SpaceMouse AVR Boards",
+          "name": "SpaceMouse Leonardo Boards",
           "architecture": "avr",
-          "version": "1.0.3",
+          "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/twprintsstudio/SpaceMouse/releases/download/v1.0.3/spacemouseboards-1.0.3.tar.bz2",
-          "archiveFileName": "spacemouseboards.1.0.0.tar.bz2",
-          "checksum": "SHA-256:43363eb0c459c3eb4face0fceecd69293ea455a1a9e9e9c2afd93b5cd3f2157b",
-          "size": "1514765",
+          "url": "https://github.com/twprintsstudio/SpaceMouseAvr/releases/download/v1.0.0/spacemouse-1.0.0.tar.bz2",
+          "archiveFileName": "spacemouse-1.0.0.tar.bz2",
+          "checksum": "SHA-256:bb076d0b0a2d0d8f4e49d134c6d096e8158779aa55660346397a18a136382905",
+          "size": "7219705",
           "help": {
-            "online": "https://github.com/twprintsstudio/SpaceMouse/issues"
+            "online": "https://github.com/twprintsstudio/SpaceMouseAvr/issues"
           },
           "boards": [
             { "name": "Spacemouse" }
